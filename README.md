@@ -1,4 +1,5 @@
-### Olá! Eu sou Yago Coelho, estudante de programação e tecnologia!
+### Olá! 
+### Eu sou Yago Coelho
 
 
 - 😄 Pronouns: Ele/Dele 
