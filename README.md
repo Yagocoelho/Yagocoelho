@@ -3,6 +3,8 @@
 
 
 - 😄 Pronouns: Ele/Dele 
+- 🌱 I’m currently learning Java
+- 🔭 Generation Bootcamp student 
 
 <div align="center">
   <a href="https://github.com/Yagocoelho">
