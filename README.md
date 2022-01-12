@@ -21,7 +21,7 @@
   <img align="center" alt="Yago-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 <img align="center" alt="Yago-follows" height="40" width="130" src="https://img.shields.io/github/followers/Yagocoelho.svg?style=social&label=Follow&maxAge=2592000">
-  <img align="right" alt="yagopic" height="180" style="border-radius:50px;" src="https://im2.ezgif.com/tmp/ezgif-2-37725a887e81.gif">
+
 </div>
   
   ##
